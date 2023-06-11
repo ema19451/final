@@ -1,0 +1,54 @@
+/* Resetear los estilos predeterminados del navegador */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f3f3f3;
+    color: #333;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+    margin: 20px 0;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Estilos de la sección de inicio */
+#inicio {
+    background-color: #f9f9f9;
+    padding: 40px;
+}
+
+/* Estilos de la sección de servicios */
+#servicios {
+    background-color: #eef7fd;
+    padding: 40px;
+}
+
+#servicios ul {
+    margin-left: 20px;
+}
+
+/* Estilos de la sección de contacto */
+#contacto {
+    background-color: #f3f3f3;
+    padding: 40px;
+}
+
+/* Estilos de la navegación */
+header {
+    background-color: #333;
+    padding: 20px;
+}
+
+header h1 {
+    color: #
